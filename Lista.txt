@@ -3,3 +3,6 @@ Ciudades
 Lima
 Piura
 Arequipa
+
+Pucallpa
+Madre de Dios
